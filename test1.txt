@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 tdsesdfg
 asdfasdfasd
 sdfasdfasdf
 123456
+=======
+你好，git.
+>>>>>>> fenzhi1
