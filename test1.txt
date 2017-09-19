@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-tdsesdfg
-asdfasdfasd
-sdfasdfasdf
+fasdf
 123456
 =======
 你好，git.
